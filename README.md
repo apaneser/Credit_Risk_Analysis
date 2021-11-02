@@ -23,4 +23,5 @@ Balanced Random Forest Classifier
 Easy Ensemble AdaBoost Classifier  
 ![Easy Ensemble AdaBoost Classifier](Screenshots/Easy_Ensemble_AdaBoost_Classifier.PNG)  
 
-## Summary  
+## Summary   
+All the methods have low precision scores while the Easy Ensemblw Adaboost Classifier had the best Recall score for diagnosing high risk by a large margin, and also has the second highest precision score, despite still being a very low score of 0.08. Because of the high recall score, most of the people that actually have high credit risk will be diagnosed correctly with it. the downside is that the low precision score means that a large amount of people will be misdiagnosed to having high credit risk, so there will be many false positives. due to the importance of correctly diagnosing whether people have high credit rist, having a high recall value is more important than having a high precision score, so I would recommend using the Easy Ensemble Ada Classifier model as it can find the most people that have high credit risk.
