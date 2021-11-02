@@ -1,8 +1,8 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
  
-# Overview  
-## Purpose
+## Overview  
+### Purpose
 
-# Results
+## Results
 
-# Summary
+## Summary
